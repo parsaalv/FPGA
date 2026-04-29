@@ -24,47 +24,32 @@ This repository includes all of my **homework assignments and in-class exercises
 ## 📚 Course Topics
 
 ### 1️⃣ Introduction to FPGAs and Hardware Description Languages
-- آشنایی با FPGAها و زبان های توصیف سخت افزاری
 
 ### 2️⃣ Data Types
-- انواع داده ها
 
 ### 3️⃣ Operators and Properties
-- انواع عملگرها و خاصیت ها
 
 ### 4️⃣ Coding Structure
-- آشنایی با ساختار کدنویسی
 
 ### 5️⃣ Simulation Methods
-- روش های شبیه سازی
 
 ### 6️⃣ Concurrent Statements
-- عبارت های concurrent
 
 ### 7️⃣ Sequential Statements
-- عبارت های sequential
 
 ### 8️⃣ Signals and Variables
-- سیگنال ها و متغیرها
 
 ### 9️⃣ Synchronous Sequential Circuits
-- مدارات ترتیبی سنکرون
 
 ### 🔟 Package & Component
-- Package & Component
 
 ### 1️⃣1️⃣ Function & Procedure
-- Function & Procedure
 
 ### 1️⃣2️⃣ Peripheral Devices
-- ادوات جانبی
 
 ### 1️⃣3️⃣ Serial Communication
-- ارتباط های سریال
 
 ### 1️⃣4️⃣ IP Core
-- IP Core
-
 ---
 
 ## 📝 Course Contents
