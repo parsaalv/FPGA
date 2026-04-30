@@ -1,0 +1,16 @@
+# Ignore generated HTML reports
+*.html linguist-generated=true
+
+# Ignore build artifacts
+*.ncd linguist-generated=true
+*.xwbt linguist-generated=true
+*.xrpt linguist-generated=true
+*.bgn linguist-generated=true
+
+# Ignore project metadata
+*.xise linguist-generated=true
+*.gise linguist-generated=true
+
+# Ensure VHDL is detected
+*.vhd linguist-language=VHDL
+*.vhdl linguist-language=VHDL
