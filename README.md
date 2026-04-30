@@ -78,3 +78,192 @@ After completing this course, students will:
 - Gain the necessary skills to implement various combinational and sequential digital circuits
 - Be able to implement serial communications, interface with peripheral devices, and use IP cores in designs
 
+# 📌 Spartan-6 XC6SLX9 – Pin Mapping
+
+Extracted from the official board pin guide.
+
+---
+
+## 🔴 LED Pins
+
+| LED   | Pin   |
+|-------|-------|
+| LED0  | IO_10 |
+| LED1  | IO_9  |
+| LED2  | IO_8  |
+| LED3  | IO_7  |
+| LED4  | IO_6  |
+| LED5  | IO_5  |
+| LED6  | IO_2  |
+| LED7  | IO_1  |
+| LED8  | IO_22 |
+| LED9  | IO_21 |
+| LED10 | IO_17 |
+| LED11 | IO_16 |
+| LED12 | IO_15 |
+| LED13 | IO_14 |
+| LED14 | IO_12 |
+| LED15 | IO_11 |
+
+---
+
+## 🔢 Seven Segment Display (7-SEG)
+
+| Segment | Pin   |
+|---------|-------|
+| A       | IO_74 |
+| B       | IO_75 |
+| C       | IO_78 |
+| D       | IO_79 |
+| E       | IO_80 |
+| F       | IO_81 |
+| G       | IO_82 |
+| P (DP)  | IO_83 |
+| K1      | IO_88 |
+| K2      | IO_87 |
+| K3      | IO_85 |
+| K4      | IO_84 |
+
+---
+
+## 🟦 LCD (16x2 – HD44780 Compatible)
+
+| Signal | Pin   |
+|--------|-------|
+| RS     | IO_50 |
+| RW     | IO_51 |
+| EN     | IO_56 |
+| D0     | IO_57 |
+| D1     | IO_58 |
+| D2     | IO_59 |
+| D3     | IO_61 |
+| D4     | IO_62 |
+| D5     | IO_64 |
+| D6     | IO_66 |
+| D7     | IO_67 |
+
+---
+
+## 🟩 ADC Interface
+
+| Signal | Pin    |
+|--------|--------|
+| WR     | IO_104 |
+| D0     | IO_105 |
+| D1     | IO_111 |
+| D2     | IO_112 |
+| D3     | IO_114 |
+| D4     | IO_115 |
+| D5     | IO_116 |
+| D6     | IO_117 |
+| D7     | IO_118 |
+
+---
+
+## 🔌 USB CH340 (UART)
+
+| Signal         | Pin   |
+|----------------|-------|
+| USB_Serial_TX  | IO_23 |
+| USB_Serial_RX  | IO_24 |
+
+---
+
+## 🟠 Push Buttons
+
+| Button | Pin   |
+|--------|-------|
+| SW4    | IO_47 |
+| SW5    | IO_46 |
+| SW6    | IO_45 |
+
+---
+
+## 🔔 Buzzer
+
+| Device | Pin   |
+|--------|-------|
+| Buzzer | IO_48 |
+
+---
+
+## 🟪 DIP Switch – S1
+
+| Switch | Pin   |
+|--------|-------|
+| P1     | IO_44 |
+| P2     | IO_43 |
+| P3     | IO_41 |
+| P4     | IO_40 |
+| P5     | IO_38 |
+
+---
+
+## 🟫 DIP Switch – S2
+
+| Switch | Pin   |
+|--------|-------|
+| P1     | IO_35 |
+| P2     | IO_34 |
+| P3     | IO_33 |
+| P4     | IO_32 |
+| P5     | IO_30 |
+
+---
+
+## 🟧 Keypad Matrix (4x4)
+
+| Line | Pin    |
+|------|--------|
+| R1   | IO_123 |
+| R2   | IO_121 |
+| R3   | IO_120 |
+| R4   | IO_119 |
+| C1   | IO_131 |
+| C2   | IO_127 |
+| C3   | IO_126 |
+| C4   | IO_124 |
+
+---
+
+## ⌨️ PS/2 Keyboard
+
+| Signal | Pin    |
+|--------|--------|
+| DATA   | IO_134 |
+| CLK    | IO_137 |
+
+---
+
+## 🟦 I2C – AT24xx / LM75
+
+| Signal | Pin   |
+|--------|-------|
+| SCL    | IO_92 |
+| SDA    | IO_93 |
+
+---
+
+## 🟩 I2C – DS3231 RTC
+
+| Signal | Pin    |
+|--------|--------|
+| SCL    | IO_132 |
+| SDA    | IO_133 |
+
+---
+
+## 🟪 BDX53C Driver
+
+| Device  | Pin    |
+|---------|--------|
+| BDX53C  | IO_100 |
+
+---
+
+## 🟨 Oscillator
+
+| Signal | Pin   |
+|--------|-------|
+| OSC    | IO_55 |
+
