@@ -14,3 +14,4 @@
 # Ensure VHDL is detected
 *.vhd linguist-language=VHDL
 *.vhdl linguist-language=VHDL
+*.html linguist-vendored
