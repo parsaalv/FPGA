@@ -54,7 +54,38 @@ This repository includes all of my **homework assignments and in-class exercises
 
 ## 📝 Course Contents
 
-*(To be filled as the course progresses – homework assignments, in-class exercises, and additional materials will be added here.)*
+### Project 1 — Basic Logic Gates
+Implementation of basic combinational logic gates in VHDL.
+
+📂 Folder: `1-Basic_gates`
+
+---
+
+### Project 2 — LED Mapper using Generate
+Mapping switch inputs to LEDs using VHDL `generate` statement.
+
+📂 Folder: `2-generate_led_mapper`
+
+---
+
+### Project 3 — Logic Vector Operations
+Vector-based logical operations implemented using concurrent statements.
+
+📂 Folder: `3-logic_vector_operations`
+
+---
+
+### Project 4 — Parametric Full Adder (Method 1)
+Implementation of an N-bit full adder using component instantiation and generics.
+
+📂 Folder: `4-fa_parametric_method1`
+
+---
+
+### Project 5 — Parametric Full Adder (Method 2)
+Alternative implementation of an N-bit full adder using hierarchical design.
+
+📂 Folder: `5-fa_parametric_method2`
 
 ---
 
