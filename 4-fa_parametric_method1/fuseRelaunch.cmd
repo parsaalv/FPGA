@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/admin/Desktop/FPGA_Github/4-fa_parametric_method1/fa_parametric_method1_tb_isim_beh.exe" -prj "C:/Users/admin/Desktop/FPGA_Github/4-fa_parametric_method1/fa_parametric_method1_tb_beh.prj" "work.fa_parametric_method1_tb" 

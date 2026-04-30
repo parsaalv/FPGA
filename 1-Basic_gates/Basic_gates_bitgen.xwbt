@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\admin\Desktop\FPGA_Github\Basic_gates\Basic_gates.ncd
+OUTFILE=C:\Users\admin\Desktop\FPGA_Github\Basic_gates\Basic_gates.bit
+FAMILY=Spartan6
+PART=xc6slx9-3tqg144
+WORKINGDIR=C:\Users\admin\Desktop\FPGA_Github\Basic_gates
+LICENSE=WebPack
+USER_INFO=__0_0_0

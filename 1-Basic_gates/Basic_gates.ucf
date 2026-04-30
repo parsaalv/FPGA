@@ -1,0 +1,10 @@
+NET 'a' LOC = P44; # S1 - P1
+NET 'b' LOC = P43; # S1 - P2
+NET 'c' LOC = P41; # S1 - P3
+NET 'q(0)' LOC = P10; # LED0
+NET 'q(1)' LOC = P9;  # LED1
+NET 'q(2)' LOC = P8;  # LED2
+NET 'q(3)' LOC = P7;  # LED3
+NET 'q(4)' LOC = P6;  # LED4
+NET 'q(5)' LOC = P5;  # LED5
+NET 'q(6)' LOC = P2;  # LED6

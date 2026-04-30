@@ -1,0 +1,16 @@
+# S1
+NET 'A(0)' LOC = P44;
+NET 'A(1)' LOC = P43;
+NET 'A(2)' LOC = P41;
+NET 'A(3)' LOC = P40;
+
+# S2
+NET 'B(0)' LOC = P35;
+NET 'B(1)' LOC = P34;
+NET 'B(2)' LOC = P33;
+NET 'B(3)' LOC = P32;
+
+# LED
+NET 'q(0)' LOC = P10;
+NET 'q(1)' LOC = P9;
+NET 'q(2)' LOC = P8;
