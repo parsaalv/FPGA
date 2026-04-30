@@ -21,13 +21,7 @@ The design applies logical functions (AND, OR, XOR) across corresponding bits of
 
 ## 🧩 Architecture Diagram
 
-<table align="center" bgcolor="#eef3fb">
-  <tr>
-    <td align="center">
-      <img src="diagram.png" alt="Logic Vector Architecture" width="800">
-    </td>
-  </tr>
-</table>
+![Logic Vector Architecture](diagram.png)
 
 ---
 
