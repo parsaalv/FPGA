@@ -5,7 +5,7 @@
 This repository contains materials, codes, and implementations related to the course  
 **FPGA Digital Design**.
 
-**MFT Plus – Technical and Vocational Training Complex**  
+**Tehran Institute Of Technology**  
 **Instructor: Shayan Shahidi Sadeghi**
 
 FPGA or field programmable gate array are semiconductor chips made up of many small electronic components called logic blocks. The main distinction of FPGA is that the chip has a raw structure and you can define the structure, architecture, and communication between logic gates yourself. This repository documents my learning journey through this course.
